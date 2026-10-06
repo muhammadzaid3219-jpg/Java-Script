@@ -563,8 +563,66 @@
 // console.log(para);
 
 
-const cont = document.getElementById('container');
-const para = document.createElement('p');
-para.innerHTML = "Welcome to my Website and Store.";
-cont.appendChild(para);
-console.log(para);
+// const cont = document.getElementById('container');
+// const para = document.createElement('p');
+// para.innerHTML = "Welcome to my Website and Store.";
+// cont.appendChild(para);
+// console.log(para);
+
+// let car = 0;
+// switch(car){
+//     case 1:
+//     console.log("Audi");
+//     break;
+
+//     case 2:
+//     console.log("Audi1");
+//     break;
+
+//     case 3:
+//     console.log("Car2");
+//     break;
+// }
+
+// let numbers = [1 , 2 , 3 , 4 , 5];
+// let result = numbers.map(function(numbers){
+//    return numbers * 2;
+// });
+// console.log(result);
+
+// let numbers = [1 , 2 , 3 , 4 , 5];
+// let result = numbers.filter(function(numbers){
+//    return numbers > 2;
+// });
+// console.log(result);
+
+// let number = [1 , 2 , 3 , 4 , 5];
+// let result = number.find(function(number){
+//     return number > 2;
+// });
+// console.log(result);
+
+// let number = [5, 12, 8, 20, 3, 15];
+// let result = number.every(function(number){
+//     return number > 2;
+// });
+// console.log(result);
+
+
+// let numbers = [10 , 20 , 30 , 40 , 49 , 50];
+// let result = numbers.includes(49);
+// console.log(result);
+
+// let numbers = [5, 2, 8, 1, 3];
+// let result = numbers.sort();
+// console.log(result);
+
+
+// let numbers = [5 , 3 , 4 , 10 , 2];
+// let results = numbers.sort((a , b) => (b - a));
+// console.log(results);
+
+
+// let number = [1 , 2 , 3 , 4 , 5];
+// let result = number.includes(6);
+// console.log(result);
